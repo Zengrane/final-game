@@ -27,5 +27,13 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate() // Used for physics
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime); // FDeltaTime relates to seconds at which physics are performed
-    }                   
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Cans"))
+        {
+            Destroy(other.gameObject);
+        }
+    }
 }
