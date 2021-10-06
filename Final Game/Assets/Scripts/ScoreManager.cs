@@ -22,7 +22,7 @@ public class ScoreManager : MonoBehaviour
     public void ChangeScore(int canValue)
     {
         score += canValue;
-        text.text = "X " + score.ToString() + " / 5";
+        text.text = "X " + score.ToString() + " / 7";
     }
 
     // Update is called once per frame
