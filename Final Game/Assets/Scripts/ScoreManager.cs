@@ -7,6 +7,7 @@ public class ScoreManager : MonoBehaviour
 {
     public static ScoreManager instance;
     public TextMeshProUGUI text;
+    public int targetScore;
     int score;
 
     // Start is called before the first frame update
@@ -23,6 +24,7 @@ public class ScoreManager : MonoBehaviour
     {
         score += canValue;
         text.text = "X " + score.ToString() + " / 7";
+
     }
 
     // Update is called once per frame
