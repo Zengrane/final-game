@@ -4,6 +4,7 @@
 { "cat":"", "pid":1, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"tundra" } }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,{ "pid":1, "tid":0, "ts":178662813661, "dur":3591, "ph":"X", "name": "DriverCheckDagSignatures",  "args": { "durationMS":4, "detail":"" }}
 ,{ "pid":1, "tid":0, "ts":178662817252, "dur":26749, "ph":"X", "name": "DriverInitData",  "args": { "durationMS":27, "detail":"" }}
 ,{ "pid":1, "tid":0, "ts":178662844342, "dur":30100, "ph":"X", "name": "Tundra",  "args": { "durationMS":30, "detail":"RemoveStaleOutputs" }}
@@ -968,6 +969,8 @@
 ,{ "pid":1, "tid":12, "ts":891427837001, "dur":20173, "ph":"X", "name": "Exiting",  "args": { "durationMS":20, "detail":"BuildLoop" }}
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
 =======
+=======
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 ,{ "pid":1, "tid":0, "ts":636928916499, "dur":1244, "ph":"X", "name": "DriverCheckDagSignatures",  "args": { "durationMS":1, "detail":"" }}
 ,{ "pid":1, "tid":0, "ts":636928917743, "dur":1049, "ph":"X", "name": "DriverInitData",  "args": { "durationMS":1, "detail":"" }}
 ,{ "pid":1, "tid":0, "ts":636928919010, "dur":254, "ph":"X", "name": "Tundra",  "args": { "durationMS":0, "detail":"RemoveStaleOutputs" }}
@@ -1344,6 +1347,9 @@
 ,{ "pid":1, "tid":12, "ts":636929034566, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "durationMS":0, "detail":"MovedFromExtractorCombine Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.dll.movedfrom" }}
 ,{ "pid":1, "tid":12, "ts":636929034903, "dur":4445739, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "durationMS":4446, "detail":"" }}
 ,{ "pid":1, "tid":12, "ts":636933480642, "dur":19055, "ph":"X", "name": "Exiting",  "args": { "durationMS":19, "detail":"BuildLoop" }}
+<<<<<<< HEAD
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
+=======
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
 
 ]

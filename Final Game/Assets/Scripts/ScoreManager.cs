@@ -26,6 +26,9 @@ public class ScoreManager : MonoBehaviour
         text.text = "X " + score.ToString() + " / 5";
 =======
         text.text = "X " + score.ToString() + " / 7";
+<<<<<<< HEAD
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
+=======
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
     }
 

@@ -21,6 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
@@ -29,6 +30,11 @@ MonoBehaviour:
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 392}
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+  m_Title: Game
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 875, y: 542}
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
   m_Title: Game
   m_RootView: {fileID: 2}
@@ -63,8 +69,12 @@ MonoBehaviour:
     width: 1920
     height: 1007
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
   m_MinSize: {x: 875, y: 300}
+=======
+  m_MinSize: {x: 875, y: 542}
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
   m_MinSize: {x: 875, y: 542}
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
@@ -150,9 +160,14 @@ MonoBehaviour:
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 66
 --- !u!114 &8
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+  controlID: 23
+--- !u!114 &6
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
   controlID: 23
 --- !u!114 &6
@@ -190,6 +205,9 @@ MonoBehaviour:
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 486
+<<<<<<< HEAD
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
+=======
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
 --- !u!114 &7
 MonoBehaviour:
@@ -211,6 +229,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 924
     height: 326
   m_MinSize: {x: 403, y: 221}
@@ -218,12 +237,17 @@ MonoBehaviour:
   vertical: 0
   controlID: 28
 =======
+=======
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
     width: 1386
     height: 523
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
   controlID: 93
+<<<<<<< HEAD
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
+=======
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
 --- !u!114 &8
 MonoBehaviour:
@@ -243,15 +267,21 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 287
     height: 326
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
 =======
+=======
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
     width: 430
     height: 523
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
+<<<<<<< HEAD
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
+=======
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
   m_ActualView: {fileID: 15}
   m_Panes:
@@ -259,9 +289,12 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   controlID: 23
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
 --- !u!114 &9
@@ -281,12 +314,16 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 287
     y: 0
     width: 637
     height: 326
 =======
     x: 462
+=======
+    x: 430
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
     x: 430
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
@@ -328,6 +365,9 @@ MonoBehaviour:
     y: 523
     width: 1386
     height: 434
+<<<<<<< HEAD
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
+=======
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
@@ -338,12 +378,17 @@ MonoBehaviour:
   - {fileID: 13}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Selected: 0
   m_LastSelected: 1
 =======
   m_Selected: 1
   m_LastSelected: 2
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+  m_Selected: 0
+  m_LastSelected: 1
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
   m_Selected: 0
   m_LastSelected: 1
@@ -374,9 +419,14 @@ MonoBehaviour:
     width: 534
     height: 957
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
@@ -469,12 +519,16 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 287.33334
     y: 72.66667
     width: 635
     height: 305
 =======
     x: 462
+=======
+    x: 430
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
     x: 430
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
@@ -527,6 +581,7 @@ MonoBehaviour:
       y: 21
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 635
       height: 284
     m_Scale: {x: 0.39444444, y: 0.39444444}
@@ -543,12 +598,19 @@ MonoBehaviour:
     m_Scale: {x: 0.44537038, y: 0.44537038}
     m_Translation: {x: 477, y: 240.5}
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
+=======
+      width: 954
+      height: 481
+    m_Scale: {x: 0.44537038, y: 0.44537038}
+    m_Translation: {x: 477, y: 240.5}
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       x: -804.92957
@@ -563,14 +625,21 @@ MonoBehaviour:
 =======
       x: -1071.0187
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
+=======
+      x: -1071.0187
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
       y: -540
       width: 2142.0374
       height: 1080
     m_MinimalGUI: 1
   m_defaultScale: 0.44537038
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 922, y: 502}
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+  m_LastWindowPixelSize: {x: 954, y: 502}
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
   m_LastWindowPixelSize: {x: 954, y: 502}
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
@@ -615,6 +684,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: f4f2ffff42680000
@@ -623,6 +693,11 @@ MonoBehaviour:
       m_LastClickedID: 21772
       m_ExpandedIDs: 4cfbffffac540000
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+      m_SelectedIDs: b6540000
+      m_LastClickedID: 21686
+      m_ExpandedIDs: 4cfbffff0c550000
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
       m_SelectedIDs: b6540000
       m_LastClickedID: 21686
@@ -673,12 +748,16 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 287.33334
     y: 72.66667
     width: 635
     height: 305
 =======
     x: 462
+=======
+    x: 430
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
     x: 430
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
@@ -700,6 +779,7 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -3.0322688, y: -5.561729, z: 45.599514}
     speed: 2
     m_Value: {x: -3.0322688, y: -5.561729, z: 45.599514}
@@ -708,6 +788,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -4.0193253, y: 4.738979, z: -4.584799}
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+    m_Target: {x: -3.9534574, y: -3.5410745, z: 65.86296}
+    speed: 2
+    m_Value: {x: -3.9297423, y: -3.63878, z: 63.935085}
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
     m_Target: {x: -3.9534574, y: -3.5410745, z: 65.86296}
     speed: 2
@@ -765,6 +850,7 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 6.0737348
     speed: 2
     m_Value: 6.0737348
@@ -773,6 +859,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 7.1770277
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+    m_Target: 10.551671
+    speed: 2
+    m_Value: 10.097293
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
     m_Target: 10.551671
     speed: 2
@@ -958,6 +1049,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 20690000
     m_LastClickedID: 26912
     m_ExpandedIDs: 0000000020690000226900002469000026690000286900002a69000000ca9a3b
@@ -966,6 +1058,11 @@ MonoBehaviour:
     m_LastClickedID: 23370
     m_ExpandedIDs: 00000000365b0000385b00003a5b00003c5b00003e5b0000405b00004c5b000000ca9a3b
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+    m_SelectedIDs: 345d0000
+    m_LastClickedID: 23860
+    m_ExpandedIDs: 00000000225b0000245b0000265b0000285b00002a5b00002c5b000000ca9a3b
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
     m_SelectedIDs: 345d0000
     m_LastClickedID: 23860
@@ -1000,10 +1097,14 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000020690000226900002469000026690000286900002a690000
 =======
     m_ExpandedIDs: 00000000365b0000385b00003a5b00003c5b00003e5b0000405b0000
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+    m_ExpandedIDs: 00000000225b0000245b0000265b0000285b00002a5b00002c5b0000
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
     m_ExpandedIDs: 00000000225b0000245b0000265b0000285b00002a5b00002c5b0000
 >>>>>>> parent of 8113d951 (Rubbish Spawning +)
@@ -1033,12 +1134,17 @@ MonoBehaviour:
   m_ListAreaState:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
 =======
     m_SelectedInstanceIDs: 0c550000
     m_LastClickedInstanceID: 21772
+=======
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
 =======
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
