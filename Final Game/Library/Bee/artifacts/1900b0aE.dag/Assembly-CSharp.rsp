@@ -326,7 +326,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Scripts/Can.cs"
 "Assets/Scripts/Dialog.cs"
-"Assets/Scripts/GameControl.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/ScoreManager.cs"
 -langversion:8.0

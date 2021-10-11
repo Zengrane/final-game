@@ -22,7 +22,11 @@ public class ScoreManager : MonoBehaviour
     public void ChangeScore(int canValue)
     {
         score += canValue;
+<<<<<<< HEAD
         text.text = "X " + score.ToString() + " / 5";
+=======
+        text.text = "X " + score.ToString() + " / 7";
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
     }
 
     // Update is called once per frame

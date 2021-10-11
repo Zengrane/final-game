@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":-3.032268762588501,"y":-5.5617289543151859,"z":45.59951400756836},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":6.073734760284424,"orthographic":true}
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":-4.019325256347656,"y":4.738978862762451,"z":-4.584798812866211},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":7.177027702331543,"orthographic":true}
 >>>>>>> 8113d9518c1edc63a9179bac41f3d8c2863ebeac
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":true,"pivot":{"x":-3.9534573554992677,"y":-3.541074514389038,"z":65.86296081542969},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":10.551671028137207,"orthographic":true}
+>>>>>>> parent of 8113d951 (Rubbish Spawning +)
